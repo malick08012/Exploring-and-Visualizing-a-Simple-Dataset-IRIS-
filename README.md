@@ -21,13 +21,14 @@ Source: Manually downloaded from [Kaggle - Iris Species](https://www.kaggle.com/
 🛠️ **Techniques & Tools Used:**
 
     Libraries:
-    `pandas` for data loading and inspection  
-    `matplotlib` and `seaborn` for data visualization  
+    pandas for data loading and inspection  
+    matplotlib` and `seaborn` for data visualization  
+    
     Exploration Techniques:
-    `.head()`, `.info()`, `.describe()` for data summary  
-    **Scatter plots / Pair plots** for feature relationships  
-    **Histograms** for feature distribution  
-    **Box plots** to detect outliers and compare feature spread
+    .head(), .info(), .describe() for data summary  
+     Scatter plots / Pair plots for feature relationships  
+     Histograms for feature distribution  
+     Box plots to detect outliers and compare feature spread
 
 📌 **Key Results and Findings:**
 
